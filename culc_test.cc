@@ -2,7 +2,7 @@
 #include "calc.cpp"
 
 TEST(SumTest, Basic) {
-    EXPECT_EQ(Culk(6,7,'+'), 13);
+    EXPECT_EQ(Culk(6,7,'+'), 10);
     EXPECT_EQ(Culk(5,5,'+'), 10);
 }
 
