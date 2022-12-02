@@ -1,3 +1,6 @@
+//
+// Created by Елизавета Кравченкова on 03.12.2022.
+//
 #include <iostream>
 
 #include <cassert>
@@ -48,5 +51,6 @@ void FriendInterface() {
         std::cout << ans;
     }
 }
+
 
 
